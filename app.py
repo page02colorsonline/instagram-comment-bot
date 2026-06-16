@@ -47,7 +47,7 @@ def webhook():
                     requests.post(
                         f"https://graph.facebook.com/v23.0/{comment_id}/replies",
                         data={
-                            "message": "Please WhatsApp us on 8088505151 for pricing and ordering details.",
+                            "message": "Please WhatsApp us on 8431995310 for pricing and ordering details.",
                             "access_token": ACCESS_TOKEN
                         }
                     )
